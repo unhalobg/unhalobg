@@ -19,8 +19,8 @@ I'm a highly experienced IT professional with over 5 years of expertise in cloud
 - Containerization and orchestration with Docker and Kubernetes
 
 ### 📫 How to reach me:
-- Email: adeoyedewale1@gmail.com
-- LinkedIn: [Your LinkedIn Profile URL]
+- Email: adewaloyedel@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/adewale-oyedele/]
 
 ### Certifications:
 - AWS Certified Cloud Solutions Architect – Associate (SAA-CO3)
